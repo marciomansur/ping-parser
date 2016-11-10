@@ -1,0 +1,260 @@
+7/11/2016 : 12:30:51 M�nimo = 1ms, M�ximo = 7ms, M�dia = 3ms
+07/11/2016 : 12:31:54 M�nimo = 1ms, M�ximo = 3ms, M�dia = 2ms
+07/11/2016 : 12:32:57 M�nimo = 1ms, M�ximo = 4ms, M�dia = 2ms
+07/11/2016 : 12:34:00 M�nimo = 1ms, M�ximo = 4ms, M�dia = 2ms
+07/11/2016 : 12:35:03 M�nimo = 2ms, M�ximo = 7ms, M�dia = 4ms
+07/11/2016 : 12:36:06,M�nimo = 1ms, M�ximo = 10ms, M�dia = 5ms
+07/11/2016 : 12:37:09 M�nimo = 1ms, M�ximo = 5ms, M�dia = 3ms
+07/11/2016 : 12:38:12 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 12:39:15 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 12:40:18 M�nimo = 2ms, M�ximo = 8ms, M�dia = 5ms
+07/11/2016 : 12:41:21,M�nimo = 1ms, M�ximo = 12ms, M�dia = 4ms
+07/11/2016 : 12:42:24 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 12:43:27 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 12:44:34 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 12:45:37 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 12:46:40 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 12:47:43 M�nimo = 2ms, M�ximo = 9ms, M�dia = 4ms
+07/11/2016 : 12:48:46 M�nimo = 1ms, M�ximo = 5ms, M�dia = 2ms
+07/11/2016 : 12:49:49 M�nimo = 1ms, M�ximo = 8ms, M�dia = 4ms
+07/11/2016 : 12:50:52 M�nimo = 1ms, M�ximo = 4ms, M�dia = 2ms
+07/11/2016 : 12:51:55,1�nimo = 9ms, M�ximo = 16ms, M�dia = 12ms
+07/11/2016 : 12:53:02 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 12:54:23 M�nimo = 1ms, M�ximo = 6ms, M�dia = 2ms
+07/11/2016 : 12:55:26 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 12:56:29 M�nimo = 1ms, M�ximo = 7ms, M�dia = 2ms
+07/11/2016 : 12:57:32 M�nimo = 1ms, M�ximo = 5ms, M�dia = 2ms
+07/11/2016 : 12:58:35 M�nimo = 1ms, M�ximo = 5ms, M�dia = 2ms
+07/11/2016 : 12:59:38 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 13:00:41 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 13:01:44 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:02:47 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:03:50 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:04:53 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 13:05:56 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:06:59 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:08:02 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:09:05 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:10:08 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:11:11 M�nimo = 1ms, M�ximo = 7ms, M�dia = 2ms
+07/11/2016 : 13:12:14 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:13:17 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:14:20 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:15:23 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:16:26 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:17:29 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:18:32 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 13:19:35 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:20:38 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:21:41 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:22:44 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:23:47 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:24:50 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:25:53 M�nimo = 1ms, M�ximo = 6ms, M�dia = 3ms
+07/11/2016 : 13:26:56 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:27:59 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:29:02 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:30:05 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:31:08 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:32:11 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:33:18 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:34:21 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:35:24 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:36:27 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:37:30 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:38:33 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:39:36 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:40:40 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:41:43 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:42:46 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:43:49 M�nimo = 1ms, M�ximo = 6ms, M�dia = 2ms
+07/11/2016 : 13:44:52 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:45:55 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:46:58 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 13:48:01,19nimo = 29ms, M�ximo = 30ms, M�dia = 29ms
+07/11/2016 : 13:49:04,12nimo = 30ms, M�ximo = 31ms, M�dia = 30ms
+07/11/2016 : 13:50:07,18nimo = 29ms, M�ximo = 29ms, M�dia = 29ms
+07/11/2016 : 13:51:10,17nimo = 31ms, M�ximo = 31ms, M�dia = 31ms
+07/11/2016 : 13:52:13,11nimo = 29ms, M�ximo = 30ms, M�dia = 29ms
+07/11/2016 : 13:53:16,17nimo = 31ms, M�ximo = 32ms, M�dia = 31ms
+07/11/2016 : 13:54:19,12nimo = 30ms, M�ximo = 31ms, M�dia = 30ms
+07/11/2016 : 13:55:26,13nimo = 29ms, M�ximo = 30ms, M�dia = 29ms
+07/11/2016 : 13:56:29 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:57:32 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:58:35 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 13:59:38 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:00:41 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:01:44 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:02:47 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:03:50 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:04:53 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:05:56 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:06:59 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:08:02 M�nimo = 1ms, M�ximo = 5ms, M�dia = 2ms
+07/11/2016 : 14:09:05 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:10:08 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:11:11 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:12:14 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:13:17 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:14:20 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:15:23 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:16:26 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:17:29 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:18:32 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:19:35 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 14:20:38 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 14:21:41 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:22:44 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:23:47 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:24:50 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:25:53 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:26:56 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:27:59 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:29:02 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:30:05 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:31:08 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:32:11 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:33:14 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:34:17 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:35:20 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:36:23 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:37:26 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:38:29 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:39:32 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:40:35 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:41:38 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:42:41 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:43:44 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:44:47 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:45:50 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:46:53 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 14:47:56 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:48:59 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:50:02 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:51:05 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:52:08 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:53:11,19 imo = 1ms, M�ximo = 446ms, M�dia = 112ms
+07/11/2016 : 14:54:14 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 14:55:17,M�nimo = 1ms, M�ximo = 10ms, M�dia = 3ms
+07/11/2016 : 14:56:20 M�nimo = 1ms, M�ximo = 4ms, M�dia = 1ms
+07/11/2016 : 14:57:23 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:58:26 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 14:59:29 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:00:32 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:01:35,19nimo = 15ms, M�ximo = 15ms, M�dia = 15ms
+07/11/2016 : 15:02:38,14nimo = 15ms, M�ximo = 15ms, M�dia = 15ms
+07/11/2016 : 15:03:41,15nimo = 15ms, M�ximo = 17ms, M�dia = 15ms
+07/11/2016 : 15:04:44,18nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:05:47,13nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:06:54,15nimo = 15ms, M�ximo = 15ms, M�dia = 15ms
+07/11/2016 : 15:07:57,12nimo = 15ms, M�ximo = 15ms, M�dia = 15ms
+07/11/2016 : 15:09:04,12nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:10:07,17nimo = 15ms, M�ximo = 15ms, M�dia = 15ms
+07/11/2016 : 15:11:10,11nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:12:13,18nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:13:16,12nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:14:19,18nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:15:22,15nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:16:25,19nimo = 15ms, M�ximo = 16ms, M�dia = 15ms
+07/11/2016 : 15:17:28 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:18:31 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:19:34 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:20:37 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:21:40 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:22:43 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:23:46 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:24:49 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:25:52 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:26:55 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:27:58 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:29:01 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:30:04 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:31:07 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:32:14 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 15:33:17 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:34:20 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:35:23 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:36:26 M�nimo = 1ms, M�ximo = 9ms, M�dia = 3ms
+07/11/2016 : 15:37:29 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:38:32 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 15:39:37 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:40:48 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:41:51 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:42:54 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:43:57 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:45:00 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:46:03 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:47:06 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 15:48:09 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:49:12 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:50:18 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:51:21 M�nimo = 1ms, M�ximo = 3ms, M�dia = 2ms
+07/11/2016 : 15:52:24 M�nimo = 1ms, M�ximo = 6ms, M�dia = 2ms
+07/11/2016 : 15:53:27 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 15:54:30 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:55:33 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 15:56:36 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 15:57:39 M�nimo = 1ms, M�ximo = 5ms, M�dia = 2ms
+07/11/2016 : 15:58:42 M�nimo = 1ms, M�ximo = 4ms, M�dia = 1ms
+07/11/2016 : 15:59:45 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:00:48 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:01:51 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:02:58 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:04:01 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:05:04 M�nimo = 1ms, M�ximo = 6ms, M�dia = 2ms
+07/11/2016 : 16:06:07 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:07:10 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:08:21 M�nimo = 1ms, M�ximo = 6ms, M�dia = 2ms
+07/11/2016 : 16:09:24 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:10:27 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:11:30 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:12:33 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:13:36 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:14:39 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:15:42 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:16:45 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:17:48 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:18:51 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:19:54 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:20:57 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:22:00 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:23:03 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:24:06 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:25:09 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:26:12 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:27:15 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:28:18 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:29:21 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:30:24 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:31:27 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:32:30 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:33:33 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:34:36 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:35:39 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:36:46 M�nimo = 1ms, M�ximo = 5ms, M�dia = 2ms
+07/11/2016 : 16:37:49 M�nimo = 2ms, M�ximo = 6ms, M�dia = 3ms
+07/11/2016 : 16:38:52 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:39:55 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:40:58 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:42:01 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:43:04 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:44:11 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:45:14 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:46:17 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:47:20 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:48:23 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:49:26 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:50:29 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:51:32 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:52:35 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:53:38 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:54:41 M�nimo = 1ms, M�ximo = 4ms, M�dia = 1ms
+07/11/2016 : 16:55:44 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:56:47 M�nimo = 1ms, M�ximo = 3ms, M�dia = 1ms
+07/11/2016 : 16:57:50 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 16:58:53 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 16:59:56 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 17:00:59 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 17:02:02 M�nimo = 1ms, M�ximo = 1ms, M�dia = 1ms
+07/11/2016 : 17:03:05 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms
+07/11/2016 : 17:04:08 M�nimo = 1ms, M�ximo = 2ms, M�dia = 1ms

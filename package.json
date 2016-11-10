@@ -1,0 +1,19 @@
+{
+  "name": "ping-parser",
+  "version": "1.0.0",
+  "description": "A program to read all ping files and parse it to a xls file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ping",
+    "xls",
+    "parser"
+  ],
+  "author": "Marcio Mansur",
+  "license": "MIT",
+  "dependencies": {
+    "linebyline": "^1.3.0"
+  }
+}
